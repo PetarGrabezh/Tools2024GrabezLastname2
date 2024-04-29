@@ -1,0 +1,7 @@
+# class files
+*.class
+
+# directories
+bin/
+gen/
+
