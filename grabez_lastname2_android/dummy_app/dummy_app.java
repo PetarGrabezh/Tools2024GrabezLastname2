@@ -7,4 +7,6 @@ public void thisIsANewMethod() {}
 // bla
 // blubbb
 // bla
+// bugfix
+// next bugfix..
 }
