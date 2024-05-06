@@ -4,4 +4,5 @@ public void thisIsANewMethod() {}
 // this is another comment
 // this is a completely different comment
 // bugfix
+// next bugfix..
 }
